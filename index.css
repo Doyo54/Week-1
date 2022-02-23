@@ -1,0 +1,24 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    float: left;
+  }
+ 
+  h1 {
+    color: blue;
+    text-align: center;
+    font-size: xxx-large;
+  }
+  
+p {
+ font-size: xx-large;
+
+}
+ul {
+    font-size: x-large;
+}
+
+  
+  
